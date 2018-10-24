@@ -3,3 +3,6 @@ target/
 *.sh
 pom.xml.releaseBackup
 release.properties
+
+.idea
+ping.iml
